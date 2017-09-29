@@ -1,0 +1,6 @@
+build*
+!build/templates
+bin/
+!bin/media/
+*.lib
+*.user
